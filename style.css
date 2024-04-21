@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: 100;
+  font-family: 'Open Sans', sans-serif;
+}
+.parallax{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tn-IDsOgtNdcr-0V3O-z-P4F0WqBuDbWqg&s?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+}
+.parallax-1{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37M0vO4qfU0Uv7Ujlm2SJXhr4M406aCyIuw&s?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+}
+.parallax-2{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9bW7_M0b_wh7ydolubhmH-7PIkmRbloeGw&s?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+}
+.parallax-inner{
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+h3{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h1{
+  font-size: 160px;
+  text-align: center;
+}
