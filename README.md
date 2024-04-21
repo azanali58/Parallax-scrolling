@@ -8,6 +8,6 @@ This project is a part of my Internship at Limelight, and it demonstrates a para
 
 - **index.html**: The main HTML file that structures the content and includes the necessary scripts and stylesheets.
 
-- **styles.css**: The CSS file containing styles for the parallax effect, container, and content.
+- **style.css**: The CSS file containing styles for the parallax effect, container, and content.
 
 - **script.js**: The JavaScript file handling the parallax effect based on the user's scroll
